@@ -2,7 +2,7 @@
 
  - 🎃 Im just a noob programmer 
  - 🔵 back-end 🌒 + front-end 🌖
- - 🐍 learning Python
+ - 🐍 Python
  - 🧬 intrested in artificial intelligence and robotics
  
 <!--
