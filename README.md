@@ -1,7 +1,7 @@
 ## Hello there (´∇｀ )👋 
 
  - 🎃 Im just a noob programmer 
- - 🔵 Web developer back-end 🌒 + front-end 🌖
+ - 🔵 back-end 🌒 + front-end 🌖
  - 🐍 learning Python
  - 🧬 intrested in artificial intelligence and robotics
  
