@@ -1,12 +1,12 @@
 ## Hello there (´∇｀ )👋 
-
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines="+Hello+world+")](https://git.io/typing-svg)
  - 🎃 Im just a noob programmer 
  - 🔵 back-end 🌒 + front-end 🌖
  - 🐍 Python
  - 🧬 intrested in artificial intelligence and robotics
  - developing and learning :
  - [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,mysql,java,php,wordpress)](https://skillicons.dev)
- - [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+ 
  
 <!--
 **Bita404/Bita404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
