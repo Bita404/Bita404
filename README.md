@@ -4,6 +4,7 @@
  - 🔵 back-end 🌒 + front-end 🌖
  - 🐍 Python + AI
  - 🧬 intrested in artificial intelligence and robotics
+ - bachelor's degreein CS
  - developing and learning :
  - [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,mysql,java,php,wordpress)](https://skillicons.dev)
  
