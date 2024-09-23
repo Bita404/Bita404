@@ -1,11 +1,11 @@
-## Hello there (´∇｀ )👋 
+## 👾 Hello there (´∇｀ )👋 👾
 - [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines="+Hello+world+")](https://git.io/typing-svg)
  - 🎃 Im just a noob programmer 
  - 🔵 back-end 🌒 + front-end 🌖
- - 🐍 Python + AI
- - 🧬 intrested in artificial intelligence and robotics
- - bachelor's degreein CS
- - developing and learning :
+ - 🐍 Python + AI 🧠
+ - 🧬 intrested in artificial intelligence and robotics 🦾
+ - 💻 bachelor's degree in CS 🎓
+ - 🍥 developing and learning :
  - [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,mysql,java,php,wordpress)](https://skillicons.dev)
  
  
