@@ -4,6 +4,9 @@
  - 🔵 back-end 🌒 + front-end 🌖
  - 🐍 Python
  - 🧬 intrested in artificial intelligence and robotics
+
+ - learning and developing :
+ - py 
  
 <!--
 **Bita404/Bita404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
