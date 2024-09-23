@@ -4,8 +4,8 @@
  - 🔵 back-end 🌒 + front-end 🌖
  - 🐍 Python
  - 🧬 intrested in artificial intelligence and robotics
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ - developing and learning :
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,mysql,java,php,wordpress)](https://skillicons.dev)
  
 <!--
 **Bita404/Bita404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
