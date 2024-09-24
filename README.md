@@ -8,7 +8,7 @@
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,mysql,java,html,php,wordpress,linux)](https://skillicons.dev)
 
- --> ✉ : Bitahua@gmail.com  
+ reach me --> ✉ : Bitahua@gmail.com  
  
  
 <!--
