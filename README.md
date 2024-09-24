@@ -6,7 +6,7 @@
  - 🧬 intrested in artificial intelligence and robotics 🦾
  - 💻 CS degree 🎓
  # 🍥 developing and learning :
- - [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,mysql,java,html,php,wordpress,linux)](https://skillicons.dev)
+ # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,mysql,java,html,php,wordpress,linux)](https://skillicons.dev)
  
  
 <!--
