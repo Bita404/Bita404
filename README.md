@@ -3,7 +3,7 @@
  - 🎃 Im just a noob programmer with big dreams about Ai 🎧🎮🍕📓
  - 🔵 back-end 🌒 > front-end 🌖
  - 🐍 Python + AI 🧠
- - 🧬 intrested in artificial intelligence and robotics 🦾
+ - 🧬 intrested in AI , robotics and Game developing 🦾
  - 💻 CS degree 🎓
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,mysql,java,html,php,wordpress,linux,js,css)](https://skillicons.dev)
