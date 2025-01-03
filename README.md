@@ -13,7 +13,8 @@
 
 
  ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
-![Typing SVG](https://readme-typing-svg.demolab.com?# font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Lets+learn+together;Welcome+to+my+profile!;+💻)
+ 
+# ![Typing SVG](https://readme-typing-svg.demolab.com?# font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Lets+learn+together;Welcome+to+my+profile!;+💻)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bita404&layout=compact&theme=radical)
 
