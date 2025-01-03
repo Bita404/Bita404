@@ -5,14 +5,13 @@
  - 🐍 Python + AI 🧠
  - 🧬 intrested in AI , robotics and Game developing 🦾
  - 💻 CS degree 🎓
+ - ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,html,php,wordpress,linux,js,css)](https://skillicons.dev)
 
  ## Reach me --> ✉ : Bitahua@gmail.com  
  ![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp)
 
-
- ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
  
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=f546d2&center=true&vCenter=true&width=435&lines=Lets+learn+together+👾;Welcome+to+my+profile!;+💻)
 
