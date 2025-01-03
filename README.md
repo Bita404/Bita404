@@ -1,7 +1,5 @@
 ## 👾 Hello there (´∇｀ )👋 👾 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines="+Hello+world+")](https://git.io/typing-svg)
-![Cool GIF](https://media.giphy.com/media/3o7TKPdUkkbwwkYWqU/giphy.gif)
-
  - 🎃 Im just a noob programmer with big dreams about Ai 🎧🎮🍕📓
  - 🔵 back-end 🌒 > front-end 🌖
  - 🐍 Python + AI 🧠
@@ -11,6 +9,8 @@
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,html,php,wordpress,linux,js,css)](https://skillicons.dev)
 
  ## Reach me --> ✉ : Bitahua@gmail.com  
+ ![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp)
+
 
  ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
 
