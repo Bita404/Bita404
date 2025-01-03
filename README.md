@@ -9,6 +9,9 @@
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,html,php,wordpress,linux,js,css)](https://skillicons.dev)
 
  ## Reach me --> ✉ : Bitahua@gmail.com  
+
+ ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+
  
  
 <!--
