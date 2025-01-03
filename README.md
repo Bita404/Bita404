@@ -16,7 +16,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Bita404?style=social)
 ![GitHub shild](https://img.shields.io/badge/follow-me-purple)
 
-![Snake animation](https://github.com/Bita404/Bita404/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
