@@ -10,7 +10,7 @@
 
  ## Reach me --> ✉ : Bitahua@gmail.com  
 
- ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
 
  
  
