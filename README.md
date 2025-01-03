@@ -16,10 +16,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Bita404?style=social)
 ![GitHub shild](https://img.shields.io/badge/follow-me-purple)
-
-
-
-
 [![Spotify](https://img.shields.io/badge/Spotify-Favorite%20song-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1?si=eba8f5c353bc432e)
 
 
