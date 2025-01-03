@@ -1,5 +1,5 @@
 ## 👾 Hello there (´∇｀ )👋 👾 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines="+Hello+world+")](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines&color=c6fd3f="+Hello+world+")](https://git.io/typing-svg)
  - 🎃 Im just a noob programmer with big dreams about Ai 🎧🎮🍕📓
  - 🔵 back-end 🌒 > front-end 🌖
  - 🐍 Python + AI 🧠
