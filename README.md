@@ -24,7 +24,7 @@
 
  ## Reach me --> ✉ : Bitahua@gmail.com  
  # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=f546d2&center=true&vCenter=true&width=435&lines=Lets+learn+together+👾;Welcome+to+my+profile!;+💻)
- ![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp)
+ 
 [![Spotify](https://img.shields.io/badge/Spotify-Favorite%20song-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1?si=eba8f5c353bc432e)
 
 ![GitHub followers](https://img.shields.io/github/followers/Bita404?style=social)
