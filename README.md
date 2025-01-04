@@ -21,17 +21,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
 ![GitHub shild](https://img.shields.io/badge/follow-me-purple)
 ![GitHub followers](https://img.shields.io/github/followers/Bita404?style=social)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=f546d2&center=true&vCenter=true&width=435&lines=Lets+learn+together+👾;Welcome+to+my+profile!;+💻)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=f546d2&center=true&vCenter=true&width=435&lines=Lets+learn+together+👾;Lets+make+our+own+world;+💻)
 
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,html,php,wordpress,linux,js,css)](https://skillicons.dev)
 
  ## Reach me --> ✉ : Bitahua@gmail.com  
- # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=f546d2&center=true&vCenter=true&width=435&lines=Lets+learn+together+👾;Welcome+to+my+profile!;+💻)
  
 [![Spotify](https://img.shields.io/badge/Spotify-Favorite%20song-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1?si=eba8f5c353bc432e)
-
-
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bita404&show_icons=true&theme=radical)
