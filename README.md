@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-## 👾 Hello there (´∇｀ )👋 👾 
+## 👾 Welcome (´∇｀ )👋 👾 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&&color=c6a8ff&pause=1000&width=435&lines="+Hello+world+")](https://git.io/typing-svg)
  - 🎃 Im just a noob programmer with big dreams about Ai 🎧🎮🍕📓
  - 🔵 back-end 🌒 > front-end 🌖
