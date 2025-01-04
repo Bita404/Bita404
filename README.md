@@ -18,6 +18,7 @@
 </table>
 
 ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
+![GitHub shild](https://img.shields.io/badge/follow-me-purple)
 ![GitHub followers](https://img.shields.io/github/followers/Bita404?style=social)
 
  # 🍥 developing and learning :
@@ -27,9 +28,6 @@
  # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=f546d2&center=true&vCenter=true&width=435&lines=Lets+learn+together+👾;Welcome+to+my+profile!;+💻)
  
 [![Spotify](https://img.shields.io/badge/Spotify-Favorite%20song-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1?si=eba8f5c353bc432e)
-
-
-![GitHub shild](https://img.shields.io/badge/follow-me-purple)
 
 
 
