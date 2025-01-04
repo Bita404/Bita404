@@ -4,7 +4,7 @@
  - 🎃 Im just a noob programmer with big dreams about Ai 🎧🎮🍕📓
  - 🔵 back-end 🌒 > front-end 🌖
  - 🐍 Python + AI 🧠
- - ![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp)
+  ![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp)
  - 🧬 intrested in AI , robotics and Game developing 🦾
  - 💻 CS degree 🎓
  - ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
