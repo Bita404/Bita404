@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-## 👾 01110111 01100101 01101100 01100011 01101111 01101101 01100101 (´∇｀ )👋 👾 
+## 👾 01001000 01100101 01101100 01110000 (´∇｀ )👋 👾 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&&color=c6a8ff&pause=1000&width=435&lines="+Hello+world+")](https://git.io/typing-svg)
 <table>
   <tr>
