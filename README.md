@@ -36,7 +36,7 @@
 
 ![Snake animation](https://github.com/Bita404/snk/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bita404&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bita404&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
