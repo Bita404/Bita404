@@ -28,6 +28,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Snake animation](https://github.com/Bita404/snk/blob/output/github-contribution-grid-snake.svg)
+
+
 
  
  
