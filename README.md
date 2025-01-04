@@ -19,15 +19,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
 
-
-
- - 🎃 Im just a noob programmer with big dreams about Ai 🎧🎮🍕📓 
- - 🔵 back-end 🌒 > front-end 🌖
- - 🐍 Python + AI 🧠
- - 🧬 intrested in AI , robotics and Game developing 🦾
- - 💻 CS degree 🎓  
- - ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
-   
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,html,php,wordpress,linux,js,css)](https://skillicons.dev)
 
