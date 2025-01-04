@@ -1,15 +1,16 @@
 ![Header](./github-header-image.png)
 ## 👾 01110111 01100101 01101100 01100011 01101111 01101101 01100101 (´∇｀ )👋 👾 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&&color=c6a8ff&pause=1000&width=435&lines="+Hello+world+")](https://git.io/typing-svg)
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp" width="100" />
-  🎃 Im just a noob programmer with big dreams about Ai 🎧🎮🍕📓
+ <p align="left" style="display: flex; align-items: center;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp" width="150" style="margin-right: 15px; border-radius: 12px;" />
+  🎃 I'm just a noob programmer with big dreams about AI 🎧🎮🍕📓
 </p>
 
-- 🔵 back-end 🌒 > front-end 🌖
-- 🐍 Python + AI 🧠
-- 🧬 intrested in AI , robotics and Game developing 🦾
+- 🔵 back-end 🌒 > front-end 🌖  
+- 🐍 Python + AI 🧠  
+- 🧬 Interested in AI, robotics, and game developing 🦾  
 - 💻 CS degree 🎓  
+
 ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
 
  - 🎃 Im just a noob programmer with big dreams about Ai 🎧🎮🍕📓 
