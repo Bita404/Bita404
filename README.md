@@ -18,6 +18,7 @@
 </table>
 
 ![Visitor Count](https://profile-counter.glitch.me/Bita404/count.svg)
+![GitHub followers](https://img.shields.io/github/followers/Bita404?style=social)
 
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,html,php,wordpress,linux,js,css)](https://skillicons.dev)
@@ -27,7 +28,7 @@
  
 [![Spotify](https://img.shields.io/badge/Spotify-Favorite%20song-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1?si=eba8f5c353bc432e)
 
-![GitHub followers](https://img.shields.io/github/followers/Bita404?style=social)
+
 ![GitHub shild](https://img.shields.io/badge/follow-me-purple)
 
 
