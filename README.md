@@ -11,6 +11,7 @@
         <li>🐍 Python + AI 🧠</li>
         <li>🧬 Interested in AI, robotics, and game developing 🦾</li>
         <li>💻 CS degree 🎓</li>
+        <li>oh did I mention AI ??? </li>
       </ul>
     </td>
     <td>
