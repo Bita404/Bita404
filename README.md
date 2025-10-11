@@ -7,7 +7,7 @@
     <td>
       <ul>
         <li>🎃 I'm just a noob programmer with big dreams about AI 🎧🎮🍕📓</li>
-        <li>🔵 back-end 🌒 > front-end 🌖</li>
+        <li>🔵 back-end 🌒 > </li>
         <li>🐍 Python + AI 🧠</li>
         <li>🧬 Interested in AI, robotics and game developing 🦾</li>
         <li>💻 CS degree 🎓</li>
