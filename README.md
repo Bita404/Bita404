@@ -7,11 +7,11 @@
     <td>
       <ul>
         <li>🎃 I'm just a noob programmer with big dreams about AI 🎧🎮🍕📓</li>
-        <li>🔵 back-end 🌒 > </li>
-        <li>🐍 Python + AI 🧠</li>
-        <li> :satellite: Networks :earth_americas: </li>
-        <li>🧬 Interested in AI, robotics and game developing 🦾</li>
         <li>💻 CS degree 🎓</li>
+        <li> :satellite: Doing Master's in Computer Networks :earth_americas: </li>
+        <li>🐍 Python + AI 🧠</li>
+        <li>🧬 Interested in AI, robotics and game developing 🦾</li>
+        <li>🔵 Back-end 🌒 > </li>
         <li>oh did I mention AI ??? </li>
       </ul>
     </td>
