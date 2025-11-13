@@ -10,8 +10,8 @@
         <li>💻 CS degree 🎓</li>
         <li> :satellite: Doing Master's in Computer Networks :earth_americas: </li>
         <li>🐍 Python + AI 🧠</li>
-        <li>🧬 Interested in AI, robotics and game developing 🦾</li>
         <li>🔵 Back-end 🌒 > </li>
+        <li>🧬 Interested in AI, robotics and game developing 🦾</li>
         <li>oh did I mention AI ??? </li>
       </ul>
     </td>
