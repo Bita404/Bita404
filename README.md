@@ -27,7 +27,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Bita404?style=social)
 
  # 🍥 developing and learning :
- # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,html,php,wordpress,linux,js,css)](https://skillicons.dev)
+ # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,html,php,wordpress,linux,js,css,godot)](https://skillicons.dev)
 
  ## Reach me --> ✉ : Bitahua@gmail.com  
  
