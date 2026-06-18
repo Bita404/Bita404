@@ -12,7 +12,7 @@
         <li>🐍 Python + ML + NN + deep 🧠</li>
         <li>🔵 Back-end 🌒 > </li>
         <li>🧬 Interested in AI, robotics and game developing 🦾</li>
-        <li> Clanker friendly </li>
+        <li>🤖Clanker friendly :sparkles: </li>
         <li>oh did I mention AI ??? </li>
       </ul>
     </td>
