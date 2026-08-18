@@ -18,7 +18,6 @@
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp" width="300" style="border-radius: 12px;" />
-      [![My Skills](https://skillicons.dev/icons?i=python,mysql,linux,docker)](https://skillicons.dev)
     </td>
   </tr>
 </table>
@@ -30,7 +29,7 @@
 
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,godot,unity,html,php,wordpress,linux,js,css)](https://skillicons.dev)
-
+ # [![My Skills](https://skillicons.dev/icons?i=python,mysql,linux,docker)](https://skillicons.dev)
  ## Reach me --> ✉ : Bitahua@gmail.com  
  
 [![Spotify](https://img.shields.io/badge/Spotify-Favorite%20song-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1?si=eba8f5c353bc432e)
