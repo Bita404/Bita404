@@ -18,6 +18,7 @@
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U3bWowMnhqZnAwbzI2MnI4bHZwa29hMmFjbjU4YXl4eWNhcWlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.webp" width="300" style="border-radius: 12px;" />
+      [![My Skills](https://skillicons.dev/icons?i=python,mysql,linux,docker)](https://skillicons.dev)
     </td>
   </tr>
 </table>
