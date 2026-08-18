@@ -29,8 +29,10 @@
 
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,godot,unity,html,php,wordpress,linux,js,css)](https://skillicons.dev)
-  ![GNS3](https://img.shields.io/badge/GNS3-1A1A1A?style=for-the-badge&logo=gns3&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-1A1A1A?style=for-the-badge&logo=gns3&logoColor=white)
 ![EVE--NG](https://img.shields.io/badge/EVE--NG-0078D4?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
  ## Reach me --> ✉ : Bitahua@gmail.com  
  
 [![Spotify](https://img.shields.io/badge/Spotify-Favorite%20song-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1?si=eba8f5c353bc432e)
