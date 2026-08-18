@@ -29,7 +29,7 @@
 
  # 🍥 developing and learning :
  # [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,c,java,mysql,mongodb,godot,unity,html,php,wordpress,linux,js,css)](https://skillicons.dev)
- # ![GNS3](https://img.shields.io/badge/GNS3-1A1A1A?style=for-the-badge&logo=gns3&logoColor=white)
+  ![GNS3](https://img.shields.io/badge/GNS3-1A1A1A?style=for-the-badge&logo=gns3&logoColor=white)
 ![EVE--NG](https://img.shields.io/badge/EVE--NG-0078D4?style=for-the-badge)
  ## Reach me --> ✉ : Bitahua@gmail.com  
  
