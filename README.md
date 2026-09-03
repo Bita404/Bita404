@@ -8,7 +8,7 @@
       <ul>
         <li>🎃 I'm just a noob programmer with big dreams about AI 🎧🎮🍕📓</li>
         <li>💻 CS degree 🎓</li>
-        <li> :satellite: Doing Master's in Computer Networks :earth_americas: </li>
+        <li> :satellite: Doing Master's in Computer Networks Engineering :earth_americas: </li>
         <li>🐍 Python + ML + NN + deep 🧠</li>
         <li>🔵 Back-end 🌒 > </li>
         <li>🧬 Interested in AI, robotics and game developing 🦾</li>
